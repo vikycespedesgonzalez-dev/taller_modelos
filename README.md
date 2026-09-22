@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vikycespedesgonzalez-dev/taller_modelos/blob/main/Taller_Modelos_Lineales(1).ipynb)
